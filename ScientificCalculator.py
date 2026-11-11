@@ -1,6 +1,5 @@
 """
 Advanced Scientific Calculator — Tkinter
-A GeeksforGeeks-style educational project with a more polished UI.
 
 Features:
 - Basic arithmetic, parentheses, percentages, powers
